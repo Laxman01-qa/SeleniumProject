@@ -10,7 +10,6 @@ public class DuplicateElement {
     public void testMethod(){
         System.out.println("Before Method");
     }
-    @BeforeClass
     @Test
     public void testClass(){
         System.out.println("Before Class");
